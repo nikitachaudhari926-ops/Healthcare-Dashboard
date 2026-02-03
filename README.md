@@ -101,9 +101,9 @@ This project is ideal for:
 •	Business Intelligence Learning Reference
 
 📷 Dashboard Preview link
-•	Hospital Healthcare Dashboard  - https://github.com/nikitachaudhari926-ops/Healthcare-Dashboard/blob/main/Hopsital_Heathcare.png
-•	Patient Healthcare Dashboard   - https://github.com/nikitachaudhari926-ops/Healthcare-Dashboard/blob/main/Patients_Healthcare.png
-•	Patient Details Dashboard      - https://github.com/nikitachaudhari926-ops/Healthcare-Dashboard/blob/main/PatientsDetails_Healthcare.png
+https://github.com/nikitachaudhari926-ops/Healthcare-Dashboard/blob/main/Dashboard/Hopsital_Heathcare.png
+https://github.com/nikitachaudhari926-ops/Healthcare-Dashboard/blob/main/Dashboard/Patients_Healthcare.png
+https://github.com/nikitachaudhari926-ops/Healthcare-Dashboard/blob/main/Dashboard/PatientsDetails_Healthcare.png
 
 👤 Author
 Nikita Chaudhari
