@@ -93,13 +93,6 @@ Key Visuals:
 •	User-friendly dashboard design
 •	Healthcare analytics best practices
 
-📌 Use Case
-This project is ideal for:
-•	Power BI Portfolio Demonstration
-•	Healthcare Analytics Case Study
-•	Interview & Assessment Projects
-•	Business Intelligence Learning Reference
-
 📷 Dashboard Preview link
 https://github.com/nikitachaudhari926-ops/Healthcare-Dashboard/blob/main/Dashboard/Hopsital_Heathcare.png
 https://github.com/nikitachaudhari926-ops/Healthcare-Dashboard/blob/main/Dashboard/Patients_Healthcare.png
